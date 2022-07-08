@@ -1,6 +1,5 @@
 # Safecity: A Women Safety Application
 
-</br>
 ## About the Project:
 
 - The aim of this study was to provide women a platform that is capable of providing help to them, when in danger. 
